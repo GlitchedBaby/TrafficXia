@@ -70,6 +70,14 @@ TrafficXia is built to be **real-world deployable**, not a simulation project.
 - tensorflow
 ---
 
+## License
+
+This project is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0).
+
+It uses Ultralytics YOLO models, which are distributed under the same license.
+Commercial use of YOLO models may require a separate commercial license.
+
+
 ## Install
 ```bash
 pip install -r requirements.txt
